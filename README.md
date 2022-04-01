@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Hi I'm Naib, I'm currently completing a 12 week Tech Consultancy Programme at nology.io and excited to start my career as a software engineer!
+
+
 <!--
 **naibr/naibr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
